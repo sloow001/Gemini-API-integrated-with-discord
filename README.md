@@ -3,7 +3,7 @@
 
  Before run the code, make sure to install this:
 
-`pip install -U discord`<br>
+`pip install discord`<br> <br>
 `pip install -U google-generativeai`
 
 And there is the needed links
