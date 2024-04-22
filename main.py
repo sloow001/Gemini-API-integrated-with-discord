@@ -31,4 +31,4 @@ async def on_ready():
     print("Done Bot")
 
 # you generate this in (https://discord.com/developers/applications)
-bot.run("your bot api")
+bot.run("your bot token")
