@@ -8,5 +8,5 @@
 
 And there is the needed links
 
-[Api](https://aistudio.google.com/app/apikey)
+[Api](https://aistudio.google.com/app/apikey) <br>
 [Discord](https://discord.com/developers/applications)
